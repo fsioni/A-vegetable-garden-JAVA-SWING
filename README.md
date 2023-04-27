@@ -13,6 +13,10 @@ Java project for the Object-Oriented Programming course at the University of Lyo
 
 The subject of the project is available [here](project_subject.pdf).
 
+## ✅ Results
+
+Find the results of the project [here](Rapport.pdf).
+
 ## 🏁 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
