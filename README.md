@@ -1,5 +1,9 @@
 <h2 align="center">A Vegetable Garden</h2>
 
+## 📝 Final Grade
+
+19/20 : top of promotion 🙌
+
 ## 🧐 About
 
 Java project for the Object-Oriented Programming course at the University of Lyon 1.
